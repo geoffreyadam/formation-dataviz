@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Paris",
+    "population": 2190327
+  },
+  {
+    "name": "Marseille",
+    "population": 862211
+  },
+  {
+    "name": "Lyon",
+    "population": 515695
+  },
+  {
+    "name": "Toulouse",
+    "population": 475438
+  },
+  {
+    "name": "Nice",
+    "population": 342637
+  },
+  {
+    "name": "Nantes",
+    "population": 306694
+  },
+  {
+    "name": "Montpellier",
+    "population": 281613
+  },
+  {
+    "name": "Strasbourg",
+    "population": 279284
+  },
+  {
+    "name": "Bordeaux",
+    "population": 252040
+  },
+  {
+    "name": "Lille",
+    "population": 232440
+  }
+]
