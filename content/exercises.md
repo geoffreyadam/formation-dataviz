@@ -12,15 +12,15 @@
 
 Make a simple visualisation of the cities populations in **pure DOM**.
 
-Data is available at [`../data/population.js`](../data/population.json).
+Data is available at [`../data/population.json`](../data/population.json).
 
-[_Source_](https://fr.wikipedia.org/wiki/)
+[_Source_](https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es)
 
 ## #2 [Pokemons](./data/pokedex.json)
 
 Make a simple visualisation of the repartition of Pokemons by types, in **pure DOM**.
 
-Data is available at [`../data/pokedex.js`](../data/pokedex.json).
+Data is available at [`../data/pokedex.json`](../data/pokedex.json).
 
 [_Source_](https://www.kaggle.com/csobral/pokemon-gen-vii-pokedex/data)
 
